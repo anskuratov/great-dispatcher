@@ -1,10 +1,14 @@
 # Rider, Jet Brains
 .idea*
 
+# Visual Studio
+*/.vs
+
 # Unity
 */Library
 */Temp
 */Logs
+*/obj
 
 # CSharp
 *.sln
